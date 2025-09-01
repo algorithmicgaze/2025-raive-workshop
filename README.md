@@ -4,7 +4,7 @@
 
 This repository contains [Figment](https://figmentapp.com/) files and training notebooks for the RAIVE 2025 AI Workshop.
 
-Download the tutorial projects: [2025-raive-projects.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2025-raive/2025-raive-projects.zip)
+**Download the tutorial projects: [2025-raive-projects.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2025-raive/2025-raive-projects.zip)**
 
 ## Figment
 
