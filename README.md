@@ -1,8 +1,8 @@
-# Vienna 2024 AI Workshop
+# RAIVE 2025 AI Workshop
 
 ![Banner](.github/hero-image.jpg)
 
-This repository contains [Figment](https://figmentapp.com/) files and training notebooks for the Vienna 2024 AI Workshop.
+This repository contains [Figment](https://figmentapp.com/) files and training notebooks for the RAIVE 2025 AI Workshop.
 
 ## Figment
 
@@ -21,7 +21,7 @@ Save all output files as `.jpg` files in a directory; then create a ZIP file of 
 
 The `train_onnx_model_colab.ipynb` notebook contains the code to train a model on Google Colab.
 
-**[Open training notebook in Colab](https://colab.research.google.com/github/algorithmicgaze/2024-vienna-workshop/blob/main/train_onnx_model_colab.ipynb)**
+**[Open training notebook in Colab](https://colab.research.google.com/github/algorithmicgaze/2025-raive-workshop/blob/main/train_onnx_model_colab.ipynb)**
 
 1. Click the link above
 2. Run the first cell by pressing Shift + Enter. You'll get a warning that the notebook was not authored by Google. Click "Run Anyway".
@@ -39,8 +39,8 @@ If you have [Colab Pro](https://colab.research.google.com/signup/pricing), the s
 4. Clone the repository:
 
 ```bash
-git clone https://github.com/algorithmicgaze/2024-vienna-workshop.git
-cd 2024-vienna-workshop
+git clone https://github.com/algorithmicgaze/2025-raive-workshop.git
+cd 2025-raive-workshop
 ```
 
 5. Install dependencies:
@@ -57,8 +57,8 @@ The `train_onnx_model_local.ipynb` notebook runs in Jupyter Notebook. Here's som
 In the terminal, clone the repository:
 
 ```bash
-git clone https://github.com/algorithmicgaze/2024-vienna-workshop.git
-cd 2024-vienna-workshop
+git clone https://github.com/algorithmicgaze/2025-raive-workshop.git
+cd 2025-raive-workshop
 ```
 
 Install the required Python packages:
