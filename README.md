@@ -4,6 +4,9 @@
 
 This repository contains [Figment](https://figmentapp.com/) files and training notebooks for the RAIVE 2025 AI Workshop.
 
+Download the tutorial projects: [2025-raive-projects.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2025-raive/2025-raive-projects.zip)
+
+
 ## Figment
 
 Download the [latest version of Figment](https://figmentapp.com/download/).
@@ -103,7 +106,7 @@ Once the model has trained, you can build a Figment file to load it in. The key 
 
 If you don't have a model yet, you can download a prepared model + Figment file from this link:
 
-[face_onnx_demo.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2024-raive/models/faces_segmented/face_onnx_demo.zip)
+[face_onnx_demo.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2025-raive/models/faces_segmented/face_onnx_demo.zip)
 
 Open this Figment file to run the model on a webcam feed.
 
