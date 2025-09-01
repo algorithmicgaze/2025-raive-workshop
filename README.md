@@ -33,8 +33,11 @@ If you have [Colab Pro](https://colab.research.google.com/signup/pricing), the s
 
 ## Training on Runpod
 
-1. Create a Pod with PyTorch 2.4
-2. Connect to Jupyter Lab
+You can rent a GPU in the cloud using [Runpod](https://www.runpod.io).
+
+1. Create a Pod (RTX 6000 Ada is nice) with PyTorch 2.8
+2. Leave the rest of the settings as default
+2. Once the pod has started, click it then click Jupyter Lab
 3. Open a terminal
 4. Clone the repository:
 
@@ -49,6 +52,9 @@ cd 2025-raive-workshop
 apt update && apt install -y unzip
 pip install tqdm matplotlib
 ```
+
+Open the `train_onnx_model_local.ipynb` file and run all cells.
+
 
 ## Training On Your Own Machine
 
