@@ -6,8 +6,6 @@ This repository contains [Figment](https://figmentapp.com/) files and training n
 
 Download the tutorial projects: [2025-raive-projects.zip](https://algorithmicgaze.s3.amazonaws.com/workshops/2025-raive/2025-raive-projects.zip)
 
-Watch the Figment videos: [Figment YouTube playlist](https://www.youtube.com/playlist?list=PLJegHlOw98OlCPFTEgKxcVHPwW_EYLOyu)
-
 ## Figment
 
 Download the [latest version of Figment](https://figmentapp.com/download/).
