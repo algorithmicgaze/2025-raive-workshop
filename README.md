@@ -39,9 +39,9 @@ You can rent a GPU in the cloud using [Runpod](https://www.runpod.io).
 
 1. Create a Pod (RTX 6000 Ada is nice) with PyTorch 2.8
 2. Leave the rest of the settings as default
-2. Once the pod has started, click it then click Jupyter Lab
-3. Open a terminal
-4. Clone the repository:
+3. Once the pod has started, click it then click Jupyter Lab
+4. Open a terminal
+5. Clone the repository:
 
 ```bash
 git clone https://github.com/algorithmicgaze/2025-raive-workshop.git
@@ -56,7 +56,6 @@ pip install tqdm matplotlib
 ```
 
 Open the `train_onnx_model_local.ipynb` file and run all cells.
-
 
 ## Training On Your Own Machine
 
@@ -117,3 +116,16 @@ There are some quality improvements you can do too:
 
 - Training for longer can help a lot
 - Curating the dataset better might produce better results
+
+## For training GANs on RunPod
+
+### In the Terminal:
+
+```bash
+git clone https://github.com/algorithmicgaze/2025-raive-workshop.git
+apt update && apt install -y unzip
+```
+
+### Open the `train_onnx_gan.ipynb`:
+
+Run all the cells to train the model. Output should be in `output/` folder.
